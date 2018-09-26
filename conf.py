@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'hirschmann'
-copyright = '2018, shanghai hite'
+copyright = '2018, 上海海得控制系统股份有限公司'
 author = 'shanghai hite'
 
 # The short X.Y version
